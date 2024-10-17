@@ -1,5 +1,5 @@
 # CIFAR100-Classifciation
-Document the results of the CIFAR100 image classification by the elema team
+Document the results of the CIFAR100 image classification for Week 7.
 | Random Seed | Test Acc | Top-5 Acc | Super-Class Acc |
 |-------------|----------|-----------|-----------------|
 | 4           | 79.05%   | 95.33%    | 87.21%          |
