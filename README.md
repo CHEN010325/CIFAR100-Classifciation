@@ -1,5 +1,5 @@
 # CIFAR100-Classifciation
-Record the highest correctness rate for CIFAR100 Classification
+Document the results of the CIFAR100 image classification by the elema team
 | Random Seed | Test Acc | Top-5 Acc | Super-Class Acc |
 |-------------|----------|-----------|-----------------|
 | 8           | 79.44%   | 95.25%    | 87.28%          |
